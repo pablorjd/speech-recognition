@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HelloKotlin</string>
+    <string name="hello_kotlin">Hello Kotlin</string>
+    <string name="no_disponible">No disponible</string>
+</resources>
